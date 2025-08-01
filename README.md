@@ -1,2 +1,2 @@
-# Kochu-
+# Kochu
 C Programming
