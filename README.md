@@ -1,2 +1,2 @@
-# Kochu
+# Sharov
 C Programming
